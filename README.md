@@ -1,4 +1,6 @@
-# Quickport is a Python-based CLI tool that scans a target host for open ports using raw socket connections. It’s designed for speed, simplicity, and learning how network connections work at a low level. The scanner checks TCP ports within a user-defined range and identifies which are open and accepting connections.
+**Quickport** is a Python-based CLI tool that scans a target host for open ports using raw socket connections. 
+It’s designed for speed, simplicity, and learning how network connections work at a low level. 
+The scanner checks TCP ports within a user-defined range and identifies which are open and accepting connections.
 
 This project demonstrates the fundamentals of socket programming, network security, and multi-threaded scanning, making it a solid utility and an educational tool.
 
